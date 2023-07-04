@@ -43,7 +43,7 @@ $ cd TrybeWarts
 
 ## Autors
 
-- [Rogério Camarano](https://github.com/rcamarano)
+- [Felipe Matos](https://github.com/felipe-mato)
 - [Rogério Camarano](https://github.com/rcamarano)
 
 ## Licença
