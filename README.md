@@ -1,4 +1,4 @@
-# 🚀🪄🌜🧙‍♂️ Trybewarts 🪄🌜🧙‍♂️ 🚀
+# 🚀🪄🌜🧙‍♂️ TrybeWarts 🪄🌜🧙‍♂️ 🚀
 
 >>> "Página de formulário de cadastro de alunos de Hogwarts. Projeto desenvolvido em dupla durante o curso de Desenvolvimento Web da Trybe. Utilizando  majoritariamente HTML, CSS e JavaScript. O projeto consiste em uma página de formulário de cadastro de alunos de Hogwarts, com possibilidade de adicionar e remover alunos, bem como alterar a quantidade de cada produto."
 >>> Um projeto muito interessante e divertido de montar. Durante a execução pude desenvolver mais minhas habilidades de gestão do tempo, inteligência emocional, pensamento crítico e controle de ansiedade. Além da comunicação assertiva já que o projeto foi feito em dupla
@@ -10,11 +10,11 @@ Obrigado por sua visita.!
 
 <div align="center">
 <!--   <img alt="TFC!" src="imgs/5ca10a0410f76.png" width="250px"> -->
-  <h1>Trybearts</h1>
+  <h1>TrybeWarts</h1>
   <p>
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/Trybearts?color=blueviolet">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rcamarano/Trybearts?color=blueviolet">
-    <img alt="GitHub" src="https://img.shields.io/github/license/rcamarano/Trybearts?color=blueviolet">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/TrybeWarts?color=blueviolet">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rcamarano/TrybeWarts?color=blueviolet">
+    <img alt="GitHub" src="https://img.shields.io/github/license/rcamarano/TrybeWarts?color=blueviolet">
   </p>
 </div>
 
@@ -33,10 +33,10 @@ Obrigado por sua visita.!
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rcamarano/Trybewarts.git
+$ git clone https://github.com/rcamarano/TrybeWarts.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Trybewarts
+$ cd TrybeWarts
 
 # O servidor inciará na porta:3001 - acesse http://localhost:3001
 ```
